@@ -2496,6 +2496,11 @@
   "resolved" "https://registry.npmjs.org/@webpack-cli/configtest/-/configtest-1.2.0.tgz"
   "version" "1.2.0"
 
+"@webpack-cli/configtest@^2.1.1":
+  "integrity" "sha512-wy0mglZpDSiSS0XHrVR+BAdId2+yxPSoJW8fsna3ZpYSlufjvxnP4YbKTCBZnNIcGN4r6ZPXV55X4mYExOfLmw=="
+  "resolved" "https://registry.npmjs.org/@webpack-cli/configtest/-/configtest-2.1.1.tgz"
+  "version" "2.1.1"
+
 "@webpack-cli/info@^1.5.0":
   "integrity" "sha512-e8tSXZpw2hPl2uMJY6fsMswaok5FdlGNRTktvFk2sD8RjH0hE2+XistawJx1vmKteh4NmGmNUrp+Tb2w+udPcQ=="
   "resolved" "https://registry.npmjs.org/@webpack-cli/info/-/info-1.5.0.tgz"
@@ -2503,10 +2508,20 @@
   dependencies:
     "envinfo" "^7.7.3"
 
+"@webpack-cli/info@^2.0.2":
+  "integrity" "sha512-zLHQdI/Qs1UyT5UBdWNqsARasIA+AaF8t+4u2aS2nEpBQh2mWIVb8qAklq0eUENnC5mOItrIB4LiS9xMtph18A=="
+  "resolved" "https://registry.npmjs.org/@webpack-cli/info/-/info-2.0.2.tgz"
+  "version" "2.0.2"
+
 "@webpack-cli/serve@^1.7.0":
   "integrity" "sha512-oxnCNGj88fL+xzV+dacXs44HcDwf1ovs3AuEzvP7mqXw7fQntqIhQ1BRmynh4qEKQSSSRSWVyXRjmTbZIX9V2Q=="
   "resolved" "https://registry.npmjs.org/@webpack-cli/serve/-/serve-1.7.0.tgz"
   "version" "1.7.0"
+
+"@webpack-cli/serve@^2.0.5":
+  "integrity" "sha512-lqaoKnRYBdo1UgDX8uF24AfGMifWK19TxPmM5FHc2vAGxrJ/qtyUyFBWoY1tISZdelsQ5fBcOusifo5o5wSJxQ=="
+  "resolved" "https://registry.npmjs.org/@webpack-cli/serve/-/serve-2.0.5.tgz"
+  "version" "2.0.5"
 
 "@xtuc/ieee754@^1.2.0":
   "integrity" "sha512-DX8nKgqcGwsc0eJSqYt5lwP4DH5FlHnmuWWBRy7X0NcaGR0ZtuyeESgMwTYVEtxmsNGY+qit4QYT/MIYTOTPeA=="
@@ -3166,6 +3181,11 @@
     "delayed-stream" "~1.0.0"
 
 "commander@^10.0.0":
+  "integrity" "sha512-y4Mg2tXshplEbSGzx7amzPwKKOCGuoSRP/CjEdwwk0FOGlUbq6lKuoyDZTNZkmxHdJtp54hdfY/JUrdL7Xfdug=="
+  "resolved" "https://registry.npmjs.org/commander/-/commander-10.0.1.tgz"
+  "version" "10.0.1"
+
+"commander@^10.0.1":
   "integrity" "sha512-y4Mg2tXshplEbSGzx7amzPwKKOCGuoSRP/CjEdwwk0FOGlUbq6lKuoyDZTNZkmxHdJtp54hdfY/JUrdL7Xfdug=="
   "resolved" "https://registry.npmjs.org/commander/-/commander-10.0.1.tgz"
   "version" "10.0.1"
@@ -3898,9 +3918,9 @@
   "version" "2.2.1"
 
 "envinfo@^7.7.3":
-  "integrity" "sha512-ZtUjZO6l5mwTHvc1L9+1q5p/R3wTopcfqMW8r5t8SJSKqeVI/LtajORwRFEKpEFuekjD0VBjwu1HMxL4UalIRw=="
-  "resolved" "https://registry.npmjs.org/envinfo/-/envinfo-7.10.0.tgz"
-  "version" "7.10.0"
+  "integrity" "sha512-G9/6xF1FPbIw0TtalAMaVPpiq2aDEuKLXM314jPVAO9r2fo2a4BLqMNkmRS7O/xPPZ+COAhGIz3ETvHEV3eUcg=="
+  "resolved" "https://registry.npmjs.org/envinfo/-/envinfo-7.11.0.tgz"
+  "version" "7.11.0"
 
 "error-ex@^1.3.1":
   "integrity" "sha512-7dFHNmqeFSEt2ZBsCriorKnn3Z2pj+fd9kmI6QoWw4//DL+icEBfc0U7qJCisqrTsKTjw4fNFy2pW9OqStD84g=="
@@ -5125,6 +5145,11 @@
   "integrity" "sha512-Ju0Bz/cEia55xDwUWEa8+olFpCiQoypjnQySseKtmjNrnps3P+xfpUmGr90T7yjlVJmOtybRvPXhKMbHr+fWnw=="
   "resolved" "https://registry.npmjs.org/interpret/-/interpret-2.2.0.tgz"
   "version" "2.2.0"
+
+"interpret@^3.1.1":
+  "integrity" "sha512-6xwYfHbajpoF0xLW+iwLkhwgvLoZDfjYfoFNu8ftMoXINzwuymNLd9u/KmwtdT2GbR+/Cz66otEGEVVUHX9QLQ=="
+  "resolved" "https://registry.npmjs.org/interpret/-/interpret-3.1.1.tgz"
+  "version" "3.1.1"
 
 "ip@^2.0.0":
   "integrity" "sha512-WKa+XuLG1A1R0UWhl2+1XQSi+fZWMsYKffMZTTYsiZaUD8k2yDAj5atimTUD2TZkyCkNEeYE5NhFZmupOGtjYQ=="
@@ -7688,6 +7713,13 @@
   dependencies:
     "resolve" "^1.9.0"
 
+"rechoir@^0.8.0":
+  "integrity" "sha512-/vxpCXddiX8NGfGO/mTafwjq4aFa/71pvamip0++IQk3zG8cbCj0fifNPrjjF1XMXUne91jL9OoxmdykoEtifQ=="
+  "resolved" "https://registry.npmjs.org/rechoir/-/rechoir-0.8.0.tgz"
+  "version" "0.8.0"
+  dependencies:
+    "resolve" "^1.20.0"
+
 "regenerator-runtime@^0.14.0":
   "integrity" "sha512-srw17NI0TUWHuGa5CFGGmhfNIeja30WMBfbslPNhf6JrqQlLN5gcrvig1oqPxiVaXb0oW0XRKtH6Nngs5lKCIA=="
   "resolved" "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.14.0.tgz"
@@ -8955,6 +8987,25 @@
     "rechoir" "^0.7.0"
     "webpack-merge" "^5.7.3"
 
+"webpack-cli@^5.1.4":
+  "integrity" "sha512-pIDJHIEI9LR0yxHXQ+Qh95k2EvXpWzZ5l+d+jIo+RdSm9MiHfzazIxwwni/p7+x4eJZuvG1AJwgC4TNQ7NRgsg=="
+  "resolved" "https://registry.npmjs.org/webpack-cli/-/webpack-cli-5.1.4.tgz"
+  "version" "5.1.4"
+  dependencies:
+    "@discoveryjs/json-ext" "^0.5.0"
+    "@webpack-cli/configtest" "^2.1.1"
+    "@webpack-cli/info" "^2.0.2"
+    "@webpack-cli/serve" "^2.0.5"
+    "colorette" "^2.0.14"
+    "commander" "^10.0.1"
+    "cross-spawn" "^7.0.3"
+    "envinfo" "^7.7.3"
+    "fastest-levenshtein" "^1.0.12"
+    "import-local" "^3.0.2"
+    "interpret" "^3.1.1"
+    "rechoir" "^0.8.0"
+    "webpack-merge" "^5.7.3"
+
 "webpack-dev-middleware@6.0.1":
   "integrity" "sha512-PZPZ6jFinmqVPJZbisfggDiC+2EeGZ1ZByyMP5sOFJcPPWSexalISz+cvm+j+oYPT7FIJyxT76esjnw9DhE5sw=="
   "resolved" "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-6.0.1.tgz"
@@ -8997,7 +9048,7 @@
   "resolved" "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz"
   "version" "3.2.3"
 
-"webpack@^5.78.0":
+"webpack@^5.78.0", "webpack@^5.89.0":
   "integrity" "sha512-qyfIC10pOr70V+jkmud8tMfajraGCZMBWJtrmuBymQKCrLTRejBI8STDp1MCyZu/QTdZSeacCQYpYNQVOzX5kw=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-5.89.0.tgz"
   "version" "5.89.0"
