@@ -1,6 +1,5 @@
 import React from 'react'
 import { Metadata } from 'next'
-
 import { Chakra_Petch } from 'next/font/google'
 
 import { AdminBar } from './_components/AdminBar'
